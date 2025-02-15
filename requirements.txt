@@ -1,4 +1,1 @@
 scikit-learn
-pandas 
-numpy
-pickle5
